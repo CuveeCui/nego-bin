@@ -1,11 +1,12 @@
 {
   "name": "nego-bin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Nego's boot entry",
   "main": "index.js",
   "repository": "git@github.com:CuveeCui/nego-bin.git",
   "author": "CuveeCui <18280133086@163.com>",
   "license": "MIT",
+  "bin": "bin/nego-bin.js",
   "dependencies": {
     "chokidar": "^3.0.2",
     "nego": "^0.1.2",
